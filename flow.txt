@@ -1,0 +1,13 @@
+ Volume in drive C is System
+ Volume Serial Number is 0E55-58C4
+
+ Directory of C:\JavaProject
+
+02/07/2017  02:37 PM    <DIR>          .
+02/07/2017  02:37 PM    <DIR>          ..
+02/07/2017  12:34 PM                19 file.txt
+02/07/2017  02:37 PM                 0 flow.txt
+02/07/2017  12:36 PM               675 HelloWorld.class
+02/07/2017  11:51 AM               144 HelloWorld.java
+               4 File(s)            838 bytes
+               2 Dir(s)  154,501,259,264 bytes free
